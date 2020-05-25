@@ -1,0 +1,11 @@
+@media all and (min-width: 480px) {
+    .SIGNUPPage {
+      padding: 60px 0;
+    }
+  
+    .SIGNUPPage form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
+  
